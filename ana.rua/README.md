@@ -29,14 +29,16 @@ Modeling conclusions
 4-Birmingham_model_unsupervised.ipynb - Modeling using unsupervised approach
 
 
-Selected Measure
-The selected evaluation metric is the
+**Selected Measure**
 
-Time Series: MSE
+The selected evaluation metric is the 
+
+*Time Series: MSE*
 
 
-Selected Model
-the selected model is the result of process detailed in 3.Birmingham_model.ipynb
+**Selected Model**
+
+The selected model is the result of process detailed in *3.Birmingham_model.ipynb*
 
 The model is saved in the models folder:
 
@@ -44,7 +46,7 @@ Birmingham_ts_model.sav
 
 
 
-Project Organization
+# Project Organization
 ------------
 
     ├── LICENSE
