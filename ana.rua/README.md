@@ -44,7 +44,9 @@ The model is saved in the models folder:
 
 Birmingham_ts_model.sav
 
+# Project Arquitecture
 
+![alt text](https://github.com/anarua1203/Birmingham-ml-project/tree/main/ana.rua/docs/BirminghamArquitecture.png?raw=true)
 
 # Project Organization
 ------------
