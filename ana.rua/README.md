@@ -46,7 +46,7 @@ Birmingham_ts_model.sav
 
 # Project Arquitecture
 
-![Screenshot](https://github.com/anarua1203/Birmingham-ml-project/tree/main/ana.rua/docs/BirminghamArquitecture.png?raw=true)
+![BirminghamArquitecture](https://user-images.githubusercontent.com/42497857/113487154-0115e600-947c-11eb-9004-c38300c603dd.png)
 
 # Project Organization
 ------------
