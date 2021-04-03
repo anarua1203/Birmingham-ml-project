@@ -44,9 +44,10 @@ The model is saved in the models folder:
 
 Birmingham_ts_model.sav
 
-# Project Arquitecture
+# Project Architecture
 
-![BirminghamArquitecture](https://user-images.githubusercontent.com/42497857/113487154-0115e600-947c-11eb-9004-c38300c603dd.png)
+![BirminghamArchitecture](https://user-images.githubusercontent.com/42497857/113487224-75508980-947c-11eb-832a-272ad766ff5e.png)
+
 
 # Project Organization
 ------------
